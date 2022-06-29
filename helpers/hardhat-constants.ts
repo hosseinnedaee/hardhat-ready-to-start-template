@@ -1,0 +1,1 @@
+export const HARDHATEVM_CHAINID = 31337;
